@@ -1,0 +1,4 @@
+case,station,species,stage,egg_number,sampling_time_UTC8,sampling_time_UTC,backtracking_duration_h,estimated_spawning_center_lat,estimated_spawning_center_lon,centroid_displacement_km,note
+Station 9 Scomber japonicus,Station 9,Scomber japonicus,Stage I,396,2024-03-25 11:00,2024-03-25 03:00,12,24.417928111478655,121.92881553613468,45.6654538307753,"Shared trajectory with Station 9 Trachurus japonicus because sampling location, time, and current field were identical."
+Station 9 Trachurus japonicus,Station 9,Trachurus japonicus,Stage I,153,2024-03-25 11:00,2024-03-25 03:00,12,24.417928111478655,121.92881553613468,45.6654538307753,"Shared trajectory with Station 9 Scomber japonicus because sampling location, time, and current field were identical."
+Station 15 Trachurus japonicus,Station 15,Trachurus japonicus,Stage I,371,2024-03-27 11:00,2024-03-27 03:00,12,24.417860899324943,121.97327111560426,28.137549218149204,Distinct Station 15 trajectory.
