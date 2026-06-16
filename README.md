@@ -4,7 +4,7 @@ Python workflows used for backward-in-time Lagrangian particle tracking of fish 
 
 This repository accompanies the manuscript:
 
-"Unveiling spawning dynamics of three main pelagic species in Yilan Bay, Northeastern Taiwan: Molecular identification, egg developmental-stage classification, and Lagrangian particle tracking within a Fisheries Restricted Area"
+"Unveiling spawning dynamics of three dominant pelagic species in Yilan Bay, Northeastern Taiwan: Molecular identification, egg developmental-stage classification, and Lagrangian particle tracking within a Fisheries Restricted Area"
 
 ---
 
