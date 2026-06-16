@@ -29,7 +29,7 @@ Simulation summary tables exported as CSV files.
 
 ### data/
 
-Current datasets were downloaded from the Copernicus Marine Service (CMEMS).
+Current datasets were obtained from the Copernicus Marine Service (CMEMS, https://marine.copernicus.eu/).
 
 Files include:
 
