@@ -4,7 +4,7 @@ Python workflows used for backward-in-time Lagrangian particle tracking of fish 
 
 This repository accompanies the manuscript:
 
-"Inferring spawning locations of Scomber japonicus, Scomber australasicus, and Trachurus japonicus in Yilan Bay, Northeastern Taiwan through molecular egg identification, developmental staging, and Lagrangian particle tracking"
+"Unveiling spawning dynamics of three main pelagic species in Yilan Bay, Northeastern Taiwan: Molecular identification, egg developmental-stage classification, and Lagrangian particle tracking within a Fisheries Restricted Area"
 
 ---
 
